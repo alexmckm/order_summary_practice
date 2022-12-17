@@ -80,6 +80,7 @@ h1 {
 .lien:hover {
     color: #766cf1;
     cursor: pointer;
+    text-decoration: none;
 }
 
 button {
