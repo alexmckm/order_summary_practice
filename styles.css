@@ -74,6 +74,7 @@ h1 {
 .lien {
     font-weight: 700;
     font-size: 0.8rem;
+    color: #382ae1;
 }
 
 .lien:hover {
